@@ -1,6 +1,6 @@
 Install the required modules by navigating to this directory in the console and running 
 
-pip install discord.py
+ pip install --force-reinstall discord==0.16.12
 
 There are two components to this discord bot. 
 1. The Interactions script:
