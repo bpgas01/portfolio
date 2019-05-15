@@ -5,12 +5,12 @@ pip install --force-reinstall discord==0.16.12
 ```
 
 There are two components to this discord bot. 
-1. The Interactions script:
+# 1. The Interactions script:
 	
 The Interactions script uses the API to connect to the bot user. 
 This is where custom commands are created, and their responses.
 
-2. The LinkBlock script:
+# 2. The LinkBlock script:
 
 This script has to be run seperatly from the Interactions script. This is where the actual link-block code is.
 The original purpose of this bot was to block explicit links on a discord server of over 3500 people. 
