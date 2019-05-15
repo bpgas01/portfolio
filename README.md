@@ -13,7 +13,7 @@ This is where custom commands are created, and their responses.
 ### 2. The LinkBlock script:
 
 This script has to be run seperatly from the Interactions script. This is where the actual link-block code is.
-The original purpose of this bot was to block explicit links on a discord server of over 3500 people [https://discord.gg/HpkCFHR]. 
+The original purpose of this bot was to block explicit links on a discord server of over [3500 people](https://discord.gg/HpkCFHR). 
 There were many troubles when first designing this bot. 
 - How would I detect user input?
 - How would the bot know it is a link?
