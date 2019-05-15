@@ -10,7 +10,8 @@ bot = commands.Bot(command_prefix='!', description=' -- Linkbot extra commands -
 
 
 token = 'NTUxMzUzMDk3NjQ2MTEyNzc4.D1vvpw.v-sgyjZUNzgEtnDRsOJGKZMxwTI' # Unique Bot token (allows script to connect to bot user)
-
+reaction_list = ['~3~']
+patron_list = ['yourself']
 mods = '<@161504618017325057>'+' <@257720428968017920>'+' <@205011905025146880>'+' <@384971944740651009>' #For use on MDD server only
 
 cookie = ['gave the :cookie: to','throwed the :cookie: at ','yeeted the :cookie: at ','slammed a :cookie: into'] #List of possible actions for command
