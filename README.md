@@ -1,6 +1,6 @@
 #### Install the required modules by navigating to this directory in the console and running 
 
-```python 
+```git
 pip install --force-reinstall discord==0.16.12
 ```
 
