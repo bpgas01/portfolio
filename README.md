@@ -18,7 +18,7 @@ There were many troubles when first designing this bot.
 - How would I predefine the blocked websites?
 
 I gradually overcame each of these obstacles as I built the bot (on and off, took about 3-4 months)
-I wrote my own function (checkLink.py) to load the linkcheck list, and compare the user input to the defined list.
+I wrote my own module (checkLink.py) to load the linkcheck list, and compare the user input to the defined list.
 I also made the bot responses a bit prettier (because why not :P) by using the Embed function.
 
 The code itself still contains redundant code from previous ideas not working. And I may just comment them out.
